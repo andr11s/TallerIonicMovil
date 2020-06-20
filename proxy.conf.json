@@ -1,0 +1,12 @@
+{
+    "/playlist/93489551/*": {
+        "target": "https://api.deezer.com",
+        "secure": false,
+        "changeOrigin": "true"
+    },
+    "/search?q=*": {
+        "target": "https://api.deezer.com",
+        "secure": false,
+        "changeOrigin": "true"
+    }
+}
